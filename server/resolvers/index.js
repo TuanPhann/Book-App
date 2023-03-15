@@ -1,4 +1,3 @@
-import { fakeData } from "../data/index.js";
 import AuthorModel from "../models/AuthorModule.js";
 import BookModel from "../models/BookModel.js";
 
